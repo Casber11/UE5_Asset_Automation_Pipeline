@@ -2,7 +2,10 @@
 
 A collection of modular, config-driven Python tools built to automate asset workflows, enforce studio conventions, and profile technical budgets in Unreal Engine 5.
 
-> 💡 **Developer Background:** Built with **2.5 years of AAA production experience as a 3D Vegetation & Environment Artist (Shipped Title: *South of Midnight*)**. Driven by real-world art production pain points, I spent the last **2 years in intensive, self-directed R&D** to master the Unreal Python API, delivering this framework to eliminate repetitive workflow friction and optimize engine performance.
+💡 **Developer Background:** Built with **2.5 years of 3A production experience as a 3D Vegetation & Environment Artist (Shipped Title: *South of Midnight*)**. 
+> Recognizing the heavy repetitive friction in art production, I spent the last **2 years in intensive, self-directed study** to transition into Technical Art. 
+> This repository is my **personal R&D milestone**—a collection of practical tools built to solve real-world art production pain points, automate validation, and streamline asset ingestion. While I am actively looking for my first professional role as a Pipeline/Tools TA to gain corporate pipeline experience, these scripts demonstrate my current technical foundation and self-driven problem-solving pipeline logic.
+
 
 ---
 
