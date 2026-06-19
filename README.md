@@ -41,5 +41,5 @@ A collection of modular, config-driven Python tools built to automate asset work
 ## 📬 Contact & Professional Links
 *   **Role:** Technical Artist (Pipeline & Tools)
 *   **Location:** Malaysia (Open to Local & Remote Roles)
-*   **Email:** [你的电子邮箱]
-*   **ArtStation (Foliage Art Portfolio):** [你的 ArtStation 链接，展示《South of Midnight》的渲染图]
+*   **Email:** casberdesign@gmail.com
+*   **ArtStation (Foliage Art Portfolio):** https://www.artstation.com/casberwong
