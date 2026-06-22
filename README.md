@@ -11,6 +11,8 @@ A collection of modular, config-driven Python tools built to automate asset work
 
 ## 🚀 Core Toolset Breakdown
 
+📁 Standalone_Tools_Suite
+
 ### 1. Ingestion & Workflow Automation
 *   `batch_import_FBX_Meshes.py`: Automates bulk FBX ingestion into Unreal Engine 5 using optimized standard import tasks and automatic mesh combining.
 *   `batch_import_textures.py`: A highly optimized scripting task utilizing automated factory data to bulk-import TGA textures directly into UE5 target directories asynchronously.
