@@ -32,6 +32,10 @@ A collection of modular, config-driven Python tools built to automate asset work
 *   `list_tool_menus.py` / `init_unreal.py`: Extends the Unreal Engine 5 editor UI via the `ToolMenus` API to integrate custom automation tools seamlessly into native main menus on engine startup.
 *   `slow_task_progress.py`: A UX optimization tool leveraging `ScopedSlowTask` to provide responsive progress bar dialogs and safe Ctrl+C style cancel feedback during heavy asset processing routines.
 
+### 5. 📁 `UE_Importer_Rules/` (Advanced Modular Ingestion Plugin)
+*A data-driven asset routing plugin built to isolate studio production logic from core project files.*
+*   **Decoupled Extension:** Inherits from framework base classes (`QueryBase`, `ImportActionBase`) to automate metadata-tag lookups and dynamic Directory sorting for static meshes upon ingestion.
+
 ---
 
 ## 🛠️ Technical Stack
